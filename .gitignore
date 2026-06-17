@@ -10,14 +10,6 @@ datalab/datalab-handout/dlc
 datalab/datalab-handout/fshow
 datalab/datalab-handout/ishow
 
-# SFS Lab 编译目标
-cmu-sfslab-local-main/sfslab-local-handout/sfs-fsck
-cmu-sfslab-local-main/sfslab-local-handout/test-sfs
-cmu-sfslab-local-main/sfslab-local-handout/test-sfs-baseline
-
-# SFS Lab 性能基线文件（每台机器不同）
-.perf_baseline
-
 # OS 杂项
 .DS_Store
 Thumbs.db
