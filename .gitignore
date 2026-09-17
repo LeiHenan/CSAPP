@@ -4,9 +4,8 @@
 *.a
 *.so
 
-# Data Lab 编译目标
+# Data Lab 编译产物（由 Makefile 生成）
 datalab/datalab-handout/btest
-datalab/datalab-handout/dlc
 datalab/datalab-handout/fshow
 datalab/datalab-handout/ishow
 
